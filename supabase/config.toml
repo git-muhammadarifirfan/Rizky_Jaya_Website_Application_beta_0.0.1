@@ -1,0 +1,4 @@
+project_id = "rizki-jaya-app"
+
+[functions.manage-admin]
+verify_jwt = false
